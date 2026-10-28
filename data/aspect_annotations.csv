@@ -1,0 +1,126 @@
+annotation_id,review_id,review_text,aspect_category,aspect_term,opinion_phrase,sentiment
+1,1,"The camera is phenomenal and takes crisp photos even in dim lighting.",camera,camera,phenomenal,positive
+2,2,"Battery life is terrible, it dies within four hours of normal use.",battery,battery life,terrible,negative
+3,3,"The screen brightness is adequate and looks fine under sunlight.",display,screen brightness,adequate and looks fine,neutral
+4,4,"Super fast processor with zero lag during heavy gaming sessions.",performance,processor,super fast with zero lag,positive
+5,5,"Terrible customer support, nobody answered my calls for warranty replacement.",customer service,customer support,terrible,negative
+6,6,"Decent build quality for the price paid, neither too flimsy nor premium.",quality,build quality,decent,neutral
+7,6,"Decent build quality for the price paid, neither too flimsy nor premium.",price,price paid,decent,neutral
+8,7,"Delivery was remarkably fast and the packaging was completely intact.",delivery,delivery,remarkably fast,positive
+9,8,"Overpriced product considering the cheap plastic body and poor finishing.",price,price,overpriced,negative
+10,8,"Overpriced product considering the cheap plastic body and poor finishing.",quality,plastic body and finishing,cheap and poor,negative
+11,9,"The device is priced reasonably well compared to other market competitors.",price,priced,reasonably well,positive
+12,10,"The battery backup is outstanding, easily lasts two full days.",battery,battery backup,outstanding,positive
+13,11,"Camera quality is very blurry and disappointing in low light.",camera,camera quality,very blurry and disappointing,negative
+14,12,"Display colors are vibrant and 120Hz refresh rate feels buttery smooth.",display,display colors,vibrant and buttery smooth,positive
+15,13,"The phone heats up significantly during simple video playback and lags.",performance,phone,heats up significantly and lags,negative
+16,14,"Package arrived damaged and the internal box was torn.",delivery,package,arrived damaged and torn,negative
+17,15,"Customer care representative was polite, patient, and solved my refund promptly.",customer service,customer care,polite patient and solved promptly,positive
+18,16,"The price seems standard for an entry-level smartphone.",price,price,standard,neutral
+19,17,"Keyboard tactile feel is satisfactory and keys have normal travel distance.",quality,keyboard tactile feel,satisfactory,neutral
+20,18,"Awful screen with washed out colors and terrible viewing angles.",display,screen,awful washed out and terrible,negative
+21,19,"Exceptional speed and multitasking efficiency with 16GB RAM.",performance,speed and multitasking,exceptional,positive
+22,20,"Battery drains quickly even when the phone is on idle standby.",battery,battery,drains quickly,negative
+23,21,"The camera is not good at all, photos are noisy and pixelated.",camera,camera,not good at all,negative
+24,22,"Battery is not bad, provides almost a full day of mixed usage.",battery,battery,not bad,positive
+25,23,"It is never slow, handling demanding applications effortlessly.",performance,speed,never slow,positive
+26,24,"The display does not disappoint, offering deep blacks and sharp contrast.",display,display,does not disappoint,positive
+27,25,"Build quality is not sturdy, the hinge broke after two weeks.",quality,build quality,not sturdy,negative
+28,26,"Customer service is not helpful, they kept transferring my call endlessly.",customer service,customer service,not helpful,negative
+29,27,"Delivery was not delayed and arrived exactly on the estimated date.",delivery,delivery,not delayed,positive
+30,28,"This item is definitely not worth the price charged.",price,price,not worth,negative
+31,29,"The sound output is average, suitable for basic voice calls.",quality,sound output,average,neutral
+32,30,"Outstanding audio clarity and punchy bass from the stereo speakers.",quality,audio clarity,outstanding,positive
+33,31,"Dreadful speaker sound with tinny audio and distorted treble.",quality,speaker sound,dreadful,negative
+34,32,"Shipping was prompt and customer support addressed questions quickly.",delivery,shipping,prompt,positive
+35,32,"Shipping was prompt and customer support addressed questions quickly.",customer service,customer support,addressed quickly,positive
+36,33,"The glass back feels premium, sleek, and durable in hand.",quality,glass back,premium sleek and durable,positive
+37,34,"Unacceptable heating issues and frequent application crashes.",performance,heating,unacceptable,negative
+38,35,"The phone has standard dimensions and typical weight for this segment.",quality,dimensions and weight,standard and typical,neutral
+39,36,"The fingerprint scanner is fast, accurate, and unlocks instantaneously.",performance,fingerprint scanner,fast accurate,positive
+40,37,"Fingerprint sensor rarely works, requires multiple attempts every time.",performance,fingerprint sensor,rarely works,negative
+41,38,"Display resolution is standard full HD, nothing extraordinary.",display,display resolution,standard full HD,neutral
+42,39,"Fast charging technology refills the cell to 80 percent in 30 minutes.",battery,fast charging,fast refills in 30 mins,positive
+43,40,"Slow charging speed takes over three hours for a full top-up.",battery,charging speed,slow takes over three hours,negative
+44,41,"Stunning design with elegant curved edges and minimal bezels.",quality,design,stunning with elegant curved edges,positive
+45,42,"Extremely fragile construction, cracked upon the first minor fall.",quality,construction,extremely fragile,negative
+46,43,"Software interface is clean, bloatware-free, and intuitive to navigate.",performance,software interface,clean bloatware-free intuitive,positive
+47,44,"Buggy operating system full of annoying ads and constant stutter.",performance,operating system,buggy annoying ads and stutter,negative
+48,45,"Reasonably priced tablet with balanced features for school students.",price,priced,reasonably,positive
+49,46,"Exorbitant cost that does not justify the mediocre specifications.",price,cost,exorbitant does not justify,negative
+50,47,"Customer helpline resolved my query within five minutes of calling.",customer service,customer helpline,resolved promptly,positive
+51,48,"Replacement request was rejected without any valid justification.",customer service,replacement request,rejected without justification,negative
+52,49,"Package box arrived in ordinary condition with standard bubble wrap.",delivery,package box,ordinary condition,neutral
+53,50,"Bluetooth connection is stable without any drops or latency.",performance,bluetooth connection,stable without drops,positive
+54,51,"Wi-Fi connectivity is erratic and frequently disconnects from the router.",performance,wi-fi connectivity,erratic and frequently disconnects,negative
+55,52,"The product works as advertised and meets basic expectations.",quality,product,works as advertised meets basic expectations,neutral
+56,53,"Superb value for money, offers flagship specs at half the price.",price,value for money,superb,positive
+57,54,"Total waste of money, stopped functioning after three days of use.",price,money,total waste,negative
+58,55,"The display is beautiful, but the battery drains quickly.",display,display,beautiful,positive
+59,55,"The display is beautiful, but the battery drains quickly.",battery,battery,drains quickly,negative
+60,56,"Camera is great, however the price is way too high.",camera,camera,great,positive
+61,56,"Camera is great, however the price is way too high.",price,price,way too high,negative
+62,57,"Excellent performance, but customer service was awful.",performance,performance,excellent,positive
+63,57,"Excellent performance, but customer service was awful.",customer service,customer service,awful,negative
+64,58,"Great build quality, although delivery took three weeks.",quality,build quality,great,positive
+65,58,"Great build quality, although delivery took three weeks.",delivery,delivery,took three weeks,negative
+66,59,"The screen is crisp, but the device heats up during normal usage.",display,screen,crisp,positive
+67,59,"The screen is crisp, but the device heats up during normal usage.",performance,device,heats up,negative
+68,60,"Affordable price tag, but the camera captures grainy photos.",price,price tag,affordable,positive
+69,60,"Affordable price tag, but the camera captures grainy photos.",camera,camera,grainy photos,negative
+70,61,"The camera is excellent, battery life is poor, and the price is reasonable.",camera,camera,excellent,positive
+71,61,"The camera is excellent, battery life is poor, and the price is reasonable.",battery,battery life,poor,negative
+72,61,"The camera is excellent, battery life is poor, and the price is reasonable.",price,price,reasonable,positive
+73,62,"Quick delivery and solid packaging, but the product quality feels cheap.",delivery,delivery and packaging,quick and solid,positive
+74,62,"Quick delivery and solid packaging, but the product quality feels cheap.",quality,product quality,feels cheap,negative
+75,63,"Customer service was responsive, but battery charging is agonizingly slow.",customer service,customer service,responsive,positive
+76,63,"Customer service was responsive, but battery charging is agonizingly slow.",battery,battery charging,agonizingly slow,negative
+77,64,"Smooth 120Hz display, but the plastic back attracts scratches instantly.",display,display,smooth 120Hz,positive
+78,64,"Smooth 120Hz display, but the plastic back attracts scratches instantly.",quality,plastic back,attracts scratches instantly,negative
+79,65,"Battery life is remarkable, but the speaker sound is dull and muffled.",battery,battery life,remarkable,positive
+80,65,"Battery life is remarkable, but the speaker sound is dull and muffled.",quality,speaker sound,dull and muffled,negative
+81,66,"Top notch processor and zero lag, but battery backup is mediocre.",performance,processor,top notch and zero lag,positive
+82,66,"Top notch processor and zero lag, but battery backup is mediocre.",battery,battery backup,mediocre,negative
+83,67,"Very affordable gadget, but customer support is non-existent.",price,gadget,very affordable,positive
+84,67,"Very affordable gadget, but customer support is non-existent.",customer service,customer support,non-existent,negative
+85,68,"Gorgeous OLED screen, but the phone is excessively heavy and bulky.",display,oled screen,gorgeous,positive
+86,68,"Gorgeous OLED screen, but the phone is excessively heavy and bulky.",quality,phone,excessively heavy and bulky,negative
+87,69,"The front selfie camera is sharp, but the rear camera is blurry.",camera,front selfie camera,sharp,positive
+88,69,"The front selfie camera is sharp, but the rear camera is blurry.",camera,rear camera,blurry,negative
+89,70,"Fast shipping and nice design, but battery drains in six hours.",delivery,shipping,fast,positive
+90,70,"Fast shipping and nice design, but battery drains in six hours.",quality,design,nice,positive
+91,70,"Fast shipping and nice design, but battery drains in six hours.",battery,battery,drains in six hours,negative
+92,71,"Audio quality is fantastic, but the pricing is definitely inflated.",quality,audio quality,fantastic,positive
+93,71,"Audio quality is fantastic, but the pricing is definitely inflated.",price,pricing,definitely inflated,negative
+94,72,"Sturdy aluminum build, but the included charger stopped working.",quality,aluminum build,sturdy,positive
+95,72,"Sturdy aluminum build, but the included charger stopped working.",battery,included charger,stopped working,negative
+96,73,"The device is not expensive and provides decent overall performance.",price,device,not expensive,positive
+97,73,"The device is not expensive and provides decent overall performance.",performance,performance,decent,positive
+98,74,"The battery does not last long enough for a full workday.",battery,battery,does not last long enough,negative
+99,75,"The screen is not bright enough under direct outdoor sunlight.",display,screen,not bright enough,negative
+100,76,"Customer service was not rude and addressed my complaints patiently.",customer service,customer service,not rude and addressed patiently,positive
+101,77,"Performance is not sluggish at all, apps open in a flash.",performance,performance,not sluggish at all,positive
+102,78,"Delivery was not fast, took nearly twelve days to reach my location.",delivery,delivery,not fast,negative
+103,79,"The device is not reliable, constantly crashing during zoom meetings.",performance,device,not reliable,negative
+104,80,"The finish is not cheap, sporting a refined matte texture.",quality,finish,not cheap,positive
+105,81,"Volume levels are standard, neither too loud nor too quiet.",quality,volume levels,standard,neutral
+106,82,"The device came with usual accessories inside a simple brown box.",delivery,packaging,usual accessories inside simple box,neutral
+107,83,"Battery capacity is 4000mAh, sufficient for standard day-to-day tasks.",battery,battery capacity,4000mAh sufficient,neutral
+108,84,"The phone measures 6.5 inches diagonally, which is an ordinary form factor.",quality,form factor,ordinary,neutral
+109,85,"Camera delivers acceptable daylight shots, though night mode is average.",camera,camera,acceptable daylight shots,neutral
+110,86,"Brilliant camera capabilities, capturing vivid colors and high dynamic range.",camera,camera capabilities,brilliant,positive
+111,87,"Pathetic battery life, cannot even survive four hours of light browsing.",battery,battery life,pathetic,negative
+112,88,"Incredible processing speed, effortlessly rendering 4K video clips.",performance,processing speed,incredible,positive
+113,89,"Disastrous delivery experience, parcel was delayed by ten days.",delivery,delivery experience,disastrous and delayed,negative
+114,90,"Friendly and efficient customer support team that issued a quick replacement.",customer service,customer support team,friendly and efficient,positive
+115,91,"Horrible build quality, plastic creaks whenever pressed firmly.",quality,build quality,horrible creaks,negative
+116,92,"Remarkable value for money, provides premium features on a student budget.",price,value for money,remarkable,positive
+117,93,"Overpriced junk with sluggish response times and frequent freezing.",price,price,overpriced,negative
+118,93,"Overpriced junk with sluggish response times and frequent freezing.",performance,response times,sluggish with frequent freezing,negative
+119,94,"Crisp, vibrant display that is an absolute pleasure for streaming movies.",display,display,crisp vibrant absolute pleasure,positive
+120,95,"Dull and washed out screen that causes severe eye fatigue.",display,screen,dull washed out,negative
+121,96,"Rapid fast charging refills the battery from flat to fifty percent in 15 mins.",battery,fast charging,rapid refills flat to 50 in 15 mins,positive
+122,97,"Drainage of battery is very high even with background sync turned off.",battery,battery,drainage is very high,negative
+123,98,"Solid metallic frame that gives confidence in drop resistance.",quality,metallic frame,solid gives confidence,positive
+124,99,"Courier tossed the package over the gate, damaging the inner contents.",delivery,courier,tossed package damaging contents,negative
+125,100,"Helpline agent answered immediately and guided me through setup step-by-step.",customer service,helpline agent,answered immediately guided step-by-step,positive

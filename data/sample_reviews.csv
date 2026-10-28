@@ -1,0 +1,101 @@
+review_id,product_name,review_text,sentiment
+1,"Apex Phone Pro","The camera is phenomenal and takes crisp photos even in dim lighting.",positive
+2,"Apex Phone Pro","Battery life is terrible, it dies within four hours of normal use.",negative
+3,"Apex Phone Pro","The screen brightness is adequate and looks fine under sunlight.",neutral
+4,"Apex Phone Pro","Super fast processor with zero lag during heavy gaming sessions.",positive
+5,"Apex Phone Pro","Terrible customer support, nobody answered my calls for warranty replacement.",negative
+6,"Apex Phone Pro","Decent build quality for the price paid, neither too flimsy nor premium.",neutral
+7,"Apex Phone Pro","Delivery was remarkably fast and the packaging was completely intact.",positive
+8,"Apex Phone Pro","Overpriced product considering the cheap plastic body and poor finishing.",negative
+9,"Apex Phone Pro","The device is priced reasonably well compared to other market competitors.",positive
+10,"Apex Phone Pro","The battery backup is outstanding, easily lasts two full days.",positive
+11,"Apex Phone Pro","Camera quality is very blurry and disappointing in low light.",negative
+12,"Apex Phone Pro","Display colors are vibrant and 120Hz refresh rate feels buttery smooth.",positive
+13,"Apex Phone Pro","The phone heats up significantly during simple video playback and lags.",negative
+14,"Apex Phone Pro","Package arrived damaged and the internal box was torn.",negative
+15,"Apex Phone Pro","Customer care representative was polite, patient, and solved my refund promptly.",positive
+16,"Apex Phone Pro","The price seems standard for an entry-level smartphone.",neutral
+17,"Apex Phone Pro","Keyboard tactile feel is satisfactory and keys have normal travel distance.",neutral
+18,"Apex Phone Pro","Awful screen with washed out colors and terrible viewing angles.",negative
+19,"Apex Phone Pro","Exceptional speed and multitasking efficiency with 16GB RAM.",positive
+20,"Apex Phone Pro","Battery drains quickly even when the phone is on idle standby.",negative
+21,"Apex Phone Pro","The camera is not good at all, photos are noisy and pixelated.",negative
+22,"Apex Phone Pro","Battery is not bad, provides almost a full day of mixed usage.",positive
+23,"Apex Phone Pro","It is never slow, handling demanding applications effortlessly.",positive
+24,"Apex Phone Pro","The display does not disappoint, offering deep blacks and sharp contrast.",positive
+25,"Apex Phone Pro","Build quality is not sturdy, the hinge broke after two weeks.",negative
+26,"Zenith Ultra Tab","Customer service is not helpful, they kept transferring my call endlessly.",negative
+27,"Zenith Ultra Tab","Delivery was not delayed and arrived exactly on the estimated date.",positive
+28,"Zenith Ultra Tab","This item is definitely not worth the price charged.",negative
+29,"Zenith Ultra Tab","The sound output is average, suitable for basic voice calls.",neutral
+30,"Zenith Ultra Tab","Outstanding audio clarity and punchy bass from the stereo speakers.",positive
+31,"Zenith Ultra Tab","Dreadful speaker sound with tinny audio and distorted treble.",negative
+32,"Zenith Ultra Tab","Shipping was prompt and customer support addressed questions quickly.",positive
+33,"Zenith Ultra Tab","The glass back feels premium, sleek, and durable in hand.",positive
+34,"Zenith Ultra Tab","Unacceptable heating issues and frequent application crashes.",negative
+35,"Zenith Ultra Tab","The phone has standard dimensions and typical weight for this segment.",neutral
+36,"Zenith Ultra Tab","The fingerprint scanner is fast, accurate, and unlocks instantaneously.",positive
+37,"Zenith Ultra Tab","Fingerprint sensor rarely works, requires multiple attempts every time.",negative
+38,"Zenith Ultra Tab","Display resolution is standard full HD, nothing extraordinary.",neutral
+39,"Zenith Ultra Tab","Fast charging technology refills the cell to 80 percent in 30 minutes.",positive
+40,"Zenith Ultra Tab","Slow charging speed takes over three hours for a full top-up.",negative
+41,"Zenith Ultra Tab","Stunning design with elegant curved edges and minimal bezels.",positive
+42,"Zenith Ultra Tab","Extremely fragile construction, cracked upon the first minor fall.",negative
+43,"Zenith Ultra Tab","Software interface is clean, bloatware-free, and intuitive to navigate.",positive
+44,"Zenith Ultra Tab","Buggy operating system full of annoying ads and constant stutter.",negative
+45,"Zenith Ultra Tab","Reasonably priced tablet with balanced features for school students.",positive
+46,"Zenith Ultra Tab","Exorbitant cost that does not justify the mediocre specifications.",negative
+47,"Zenith Ultra Tab","Customer helpline resolved my query within five minutes of calling.",positive
+48,"Zenith Ultra Tab","Replacement request was rejected without any valid justification.",negative
+49,"Zenith Ultra Tab","Package box arrived in ordinary condition with standard bubble wrap.",neutral
+50,"Zenith Ultra Tab","Bluetooth connection is stable without any drops or latency.",positive
+51,"NovaBook Lite","Wi-Fi connectivity is erratic and frequently disconnects from the router.",negative
+52,"NovaBook Lite","The product works as advertised and meets basic expectations.",neutral
+53,"NovaBook Lite","Superb value for money, offers flagship specs at half the price.",positive
+54,"NovaBook Lite","Total waste of money, stopped functioning after three days of use.",negative
+55,"NovaBook Lite","The display is beautiful, but the battery drains quickly.",mixed
+56,"NovaBook Lite","Camera is great, however the price is way too high.",mixed
+57,"NovaBook Lite","Excellent performance, but customer service was awful.",mixed
+58,"NovaBook Lite","Great build quality, although delivery took three weeks.",mixed
+59,"NovaBook Lite","The screen is crisp, but the device heats up during normal usage.",mixed
+60,"NovaBook Lite","Affordable price tag, but the camera captures grainy photos.",mixed
+61,"NovaBook Lite","The camera is excellent, battery life is poor, and the price is reasonable.",mixed
+62,"NovaBook Lite","Quick delivery and solid packaging, but the product quality feels cheap.",mixed
+63,"NovaBook Lite","Customer service was responsive, but battery charging is agonizingly slow.",mixed
+64,"NovaBook Lite","Smooth 120Hz display, but the plastic back attracts scratches instantly.",mixed
+65,"NovaBook Lite","Battery life is remarkable, but the speaker sound is dull and muffled.",mixed
+66,"NovaBook Lite","Top notch processor and zero lag, but battery backup is mediocre.",mixed
+67,"NovaBook Lite","Very affordable gadget, but customer support is non-existent.",mixed
+68,"NovaBook Lite","Gorgeous OLED screen, but the phone is excessively heavy and bulky.",mixed
+69,"NovaBook Lite","The front selfie camera is sharp, but the rear camera is blurry.",mixed
+70,"NovaBook Lite","Fast shipping and nice design, but battery drains in six hours.",mixed
+71,"NovaBook Lite","Audio quality is fantastic, but the pricing is definitely inflated.",mixed
+72,"NovaBook Lite","Sturdy aluminum build, but the included charger stopped working.",mixed
+73,"NovaBook Lite","The device is not expensive and provides decent overall performance.",positive
+74,"NovaBook Lite","The battery does not last long enough for a full workday.",negative
+75,"NovaBook Lite","The screen is not bright enough under direct outdoor sunlight.",negative
+76,"Pulse SoundMax","Customer service was not rude and addressed my complaints patiently.",positive
+77,"Pulse SoundMax","Performance is not sluggish at all, apps open in a flash.",positive
+78,"Pulse SoundMax","Delivery was not fast, took nearly twelve days to reach my location.",negative
+79,"Pulse SoundMax","The device is not reliable, constantly crashing during zoom meetings.",negative
+80,"Pulse SoundMax","The finish is not cheap, sporting a refined matte texture.",positive
+81,"Pulse SoundMax","Volume levels are standard, neither too loud nor too quiet.",neutral
+82,"Pulse SoundMax","The device came with usual accessories inside a simple brown box.",neutral
+83,"Pulse SoundMax","Battery capacity is 4000mAh, sufficient for standard day-to-day tasks.",neutral
+84,"Pulse SoundMax","The phone measures 6.5 inches diagonally, which is an ordinary form factor.",neutral
+85,"Pulse SoundMax","Camera delivers acceptable daylight shots, though night mode is average.",neutral
+86,"Pulse SoundMax","Brilliant camera capabilities, capturing vivid colors and high dynamic range.",positive
+87,"Pulse SoundMax","Pathetic battery life, cannot even survive four hours of light browsing.",negative
+88,"Pulse SoundMax","Incredible processing speed, effortlessly rendering 4K video clips.",positive
+89,"Pulse SoundMax","Disastrous delivery experience, parcel was delayed by ten days.",negative
+90,"Pulse SoundMax","Friendly and efficient customer support team that issued a quick replacement.",positive
+91,"Pulse SoundMax","Horrible build quality, plastic creaks whenever pressed firmly.",negative
+92,"Pulse SoundMax","Remarkable value for money, provides premium features on a student budget.",positive
+93,"Pulse SoundMax","Overpriced junk with sluggish response times and frequent freezing.",negative
+94,"Pulse SoundMax","Crisp, vibrant display that is an absolute pleasure for streaming movies.",positive
+95,"Pulse SoundMax","Dull and washed out screen that causes severe eye fatigue.",negative
+96,"Pulse SoundMax","Rapid fast charging refills the battery from flat to fifty percent in 15 mins.",positive
+97,"Pulse SoundMax","Drainage of battery is very high even with background sync turned off.",negative
+98,"Pulse SoundMax","Solid metallic frame that gives confidence in drop resistance.",positive
+99,"Pulse SoundMax","Courier tossed the package over the gate, damaging the inner contents.",negative
+100,"Pulse SoundMax","Helpline agent answered immediately and guided me through setup step-by-step.",positive

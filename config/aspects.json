@@ -1,0 +1,85 @@
+{
+  "aspect_categories": {
+    "camera": {
+      "keywords": [
+        "camera", "lens", "photo", "photos", "picture", "pictures", 
+        "portrait", "sensor", "megapixel", "mp", "video", "selfie", 
+        "zoom", "night mode", "hdr", "shutter"
+      ],
+      "display_name": "Camera & Imaging",
+      "icon": "📸"
+    },
+    "battery": {
+      "keywords": [
+        "battery", "battery life", "charging", "charger", "backup", 
+        "drain", "draining", "power", "standby", "mah", "watt", 
+        "fast charging", "recharge", "screen on time", "sot"
+      ],
+      "display_name": "Battery & Power",
+      "icon": "🔋"
+    },
+    "display": {
+      "keywords": [
+        "display", "screen", "panel", "amoled", "oled", "lcd", 
+        "brightness", "resolution", "refresh rate", "hz", "touch", 
+        "colors", "viewing angle", "hdr", "bezel", "glass"
+      ],
+      "display_name": "Display & Screen",
+      "icon": "📱"
+    },
+    "performance": {
+      "keywords": [
+        "performance", "speed", "processor", "chipset", "cpu", "gpu", 
+        "ram", "multitasking", "lag", "stutter", "freeze", "gaming", 
+        "fps", "heating", "warm", "benchmark", "smoothness", "responsive"
+      ],
+      "display_name": "Performance & Speed",
+      "icon": "⚡"
+    },
+    "price": {
+      "keywords": [
+        "price", "pricing", "cost", "value", "expensive", "cheap", 
+        "affordable", "budget", "money", "deal", "worth", "overpriced", 
+        "economical", "penny", "discount"
+      ],
+      "display_name": "Price & Value",
+      "icon": "💰"
+    },
+    "quality": {
+      "keywords": [
+        "quality", "build", "durability", "material", "finish", 
+        "hardware", "sturdy", "flimsy", "premium", "plastic", 
+        "metal", "craftsmanship", "rugged", "look", "design"
+      ],
+      "display_name": "Build & Quality",
+      "icon": "⭐"
+    },
+    "delivery": {
+      "keywords": [
+        "delivery", "shipping", "courier", "package", "packaging", 
+        "dispatch", "arrival", "transit", "received", "box", "shipment"
+      ],
+      "display_name": "Shipping & Delivery",
+      "icon": "📦"
+    },
+    "customer service": {
+      "keywords": [
+        "customer service", "support", "helpdesk", "warranty", 
+        "replacement", "return", "refund", "service center", 
+        "representative", "staff", "technician", "assistance"
+      ],
+      "display_name": "Customer Service",
+      "icon": "🎧"
+    }
+  },
+  "negation_words": [
+    "not", "no", "never", "hardly", "barely", "scarcely", 
+    "neither", "nor", "cannot", "can't", "don't", "doesn't", 
+    "didn't", "won't", "wouldn't", "shouldn't", "couldn't", "isn't", 
+    "aren't", "wasn't", "weren't", "without", "lack", "lacks", "lacking"
+  ],
+  "contrast_conjunctions": [
+    "but", "however", "although", "though", "yet", "still", 
+    "nevertheless", "nonetheless", "whereas", "while", "except"
+  ]
+}
